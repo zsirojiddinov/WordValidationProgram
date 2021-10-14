@@ -1,0 +1,29 @@
+boz, bon, vachcha, gar, garchilik, goh, go'y, don, dor, dosh, do'z, zor, iy, iston, kash, kor, lik, loq, noma, obod, paz, parast, parvar, poya, soz, im, xon, xona, xo'r, chi, chilik, shtrish, shunus
+lar, at, v, vichi, gi, g'i, g'in, gich, g'ich, g'u, g'un, dak, diq, doq, ik, iq, ildoq, imm, in, indi, inch, it, k, q, ki, qi, kilik, qin, kich, qich, kun, m, ma, mak, machoq, moq, ovchi, oq, uv, uvchi, uq, um, un, ch, chi, chiq, sh
+a, ak, garchilik, lik, chi, chilik
+ag'on, ak, aki, arli, aro, baxs, bop, viy, vor, g', gar, gi, gin, g'in, gir, g'ir, g'oq, g'un, don, dor, dosh, i, iy, ik, iq, ildok, ildoq, imli, in, ishli, k, q, qa, kay, kash, ki, qi, kin, qin, kir, qir, qoq, kor, qun, qur, li, lik, loq, lom, m, ma, mand, mas, mon, msiq, namo, ovuch, oq, omuz, ong'ich, parast, parvar, rli, siz, simon, uk, uq, ch, cha, chak, chan, chiq, chil, choq, shumul
+ba, bat, bar, be, g'ayri, no, ser, xush
+imtir, ish, ishroq, roq, sh
+behat, g'oyatda, juda, nihoyatda
+a, ay, ar, gila, g'ila, i, ik, iq, illa, imsira, inqira, ira, y, k, q, kila, qila, lan, lash, lashtir, r, sira, t, la
+az, ar, gaz, g'az, giz, g'iz, di, dir, iz, il, in, ir, ish, kas, qas, kis, qis, l, lan, lash, n, sat, t, tir, sh
+ma, yoq, emas
+ay, ayin, aylik, ar, ar ekan, gan ekan, gin, ing, ingiz, issa, y, yin, ylik, mas, moqchi, r, sa, sa edi, sak, salar, salaring, salaringiz, sam, sang, sangiz, sangizlar, sanglar, sin, sinlar, shsin
+adi, adigan, ayotib, ayotir, ajak, ar, ar edi, ayap, b, gan, gan edi, guvchi edi, di, di, digan, yotgan edi, yotib, yotib edi, yotir, ib, ib edi, digan, mak, moqda, moqda edi, moqchi, r, r edi, edi, yajak, yap
+man, san, di, miz, siz, dilar, m, ng, k, ngiz, lar, y, ay, yin, ayin, lik, alik, gin, ing, ingiz, inlar, sin, sinlar
+aki, an, gani, gina, iga, in, kina, qina, lab, lay, layin, larcha, n, ona, roq, siga, siz, cha, chang, chasiga
+ala, gina, inchi, lab, nichi, ov, ta, tagina, tadan, tacha
+men, sen, u, biz, siz, ular;
+u, bu, shu, o'sha, mana, mana shu, ushbu
+gina, dek, naqa, naqangi, nday, ndaqa, ndaqangi, ndoq, ncha
+kim, nima, qaysi, qanday, nega, qancha, necha, qachon, nimaga, qani
+ing, iki, niki
+da, da-ki, dir, i-ki, ki, nchi, sa, ta, tadan
+bar, barcha, butun, hamma, har, har qaysi, har qanday, har qancha, har kim, har nima
+hech qayer, hech qaysi, hech qanaqa, hech qancha, hech qachon, hech kim, hech narsa, hech nima
+allaqayer, allaqaysi, allaqanaqa, allaqanday, allaqancha, allaqanchon, allakim, allanim
+ni, ning, ga, da, dan
+m, im, ng, ing, i
+miz, imiz, ngiz, ingiz, lari
+a, gina, da, dir, yoq, ki, kim, kina, qina, ku, mi, oq, u, chi, yu, ya
+axir, na, nah, nahotki, faqat, ham, hatto, hattoki, xuddi
